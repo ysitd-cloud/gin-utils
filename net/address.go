@@ -1,9 +1,9 @@
-package net
+package net // import "code.ysitd.cloud/gin/utils/net"
 
 import (
 	"fmt"
 
-	"github.com/ysitd-cloud/gin-utils/env"
+	"code.ysitd.cloud/gin/utils/env"
 )
 
 func GetAddress() string {

@@ -1,4 +1,4 @@
-package env
+package env // import "code.ysitd.cloud/gin/utils/env"
 
 import "os"
 
