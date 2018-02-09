@@ -1,2 +1,4 @@
 package: code.ysitd.cloud/gin/utils
-import: []
+import:
+- package: github.com/gin-gonic/gin
+  version: ^1.2.0
